@@ -1,0 +1,22 @@
+{
+  "name": "@madeleine68/lotide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeleine68/lotide.git"
+  },
+  "author": "Mahdieh(Mdeleine) Moghadasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeleine68/lotide/issues"
+  },
+  "homepage": "https://github.com/madeleine68/lotide#readme"
+}
